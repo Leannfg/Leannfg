@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 💻 Fivem Developer 
+- 🌱 I’m currently learning C#
+- 🔭 I’m currently working on https://discord.gg/Uf2WX8pMgd
+
+If you need any service from Fivem, talk to me in discord @leanng_
 
 <!--
 **Leannfg/Leannfg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
